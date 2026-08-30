@@ -14,13 +14,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\TemporalOverhaul\\TemporalOverhaul.csproj",
       "projectUniqueName": "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\TemporalOverhaul\\TemporalOverhaul.csproj",
       "projectName": "TemporalOverhaul",
-      "projectPath": "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\TemporalOverhaul\\TemporalOverhaul.csproj",
       "projectPath": "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\TemporalOverhaul\\TemporalOverhaul.csproj",
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\TemporalOverhaul\\obj\\",
       "outputPath": "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\TemporalOverhaul\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [

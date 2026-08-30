@@ -1,21 +1,16 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj": {}
     "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj": {
     "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj",
         "projectUniqueName": "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj",
         "projectName": "CakeBuild",
-        "projectPath": "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj",
         "projectPath": "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\ZZCakeBuild\\CakeBuild.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\Desktop\\Bastion\\TemporalOverhaul\\ZZCakeBuild\\obj\\",
         "outputPath": "C:\\Users\\henry\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\ZZCakeBuild\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
