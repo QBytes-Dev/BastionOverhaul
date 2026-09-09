@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\14cow\\OneDrive\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{B8D97B02-7CDA-49CA-81BD-117DA59F2E33}|TemporalOverhaul\\TemporalOverhaul.csproj|c:\\users\\14cow\\onedrive\\documents\\github\\bastionoverhaul\\temporaloverhaul\\temporaloverhaul\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8D97B02-7CDA-49CA-81BD-117DA59F2E33}|TemporalOverhaul\\TemporalOverhaul.csproj|solutionrelative:temporaloverhaul\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+=======
+      "AbsoluteMoniker": "D:0:0:{B8D97B02-7CDA-49CA-81BD-117DA59F2E33}|TemporalOverhaul\\TemporalOverhaul.csproj|c:\\users\\14cow\\onedrive\\documents\\github\\bastionoverhaul\\temporaloverhaul\\temporaloverhaul\\assets\\temporaloverhaul\\lang\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8D97B02-7CDA-49CA-81BD-117DA59F2E33}|TemporalOverhaul\\TemporalOverhaul.csproj|solutionrelative:temporaloverhaul\\assets\\temporaloverhaul\\lang\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +24,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\14cow\\OneDrive\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\TemporalOverhaul\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TemporalOverhaul\\Properties\\launchSettings.json",
@@ -27,6 +33,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-09T01:35:03.392Z",
+=======
+              "Title": "en.json",
+              "DocumentMoniker": "C:\\Users\\14cow\\OneDrive\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\TemporalOverhaul\\assets\\temporaloverhaul\\lang\\en.json",
+              "RelativeDocumentMoniker": "TemporalOverhaul\\assets\\temporaloverhaul\\lang\\en.json",
+              "ToolTip": "C:\\Users\\14cow\\OneDrive\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\TemporalOverhaul\\assets\\temporaloverhaul\\lang\\en.json",
+              "RelativeToolTip": "TemporalOverhaul\\assets\\temporaloverhaul\\lang\\en.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-08T23:11:17.814Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]

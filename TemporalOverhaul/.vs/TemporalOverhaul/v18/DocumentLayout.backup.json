@@ -1,16 +1,21 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\14cow\\OneDrive\\Documents\\GitHub\\BastionOverhaul\\TemporalOverhaul\\",
+<<<<<<< Updated upstream
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{B8D97B02-7CDA-49CA-81BD-117DA59F2E33}|TemporalOverhaul\\TemporalOverhaul.csproj|c:\\users\\14cow\\onedrive\\documents\\github\\bastionoverhaul\\temporaloverhaul\\temporaloverhaul\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B8D97B02-7CDA-49CA-81BD-117DA59F2E33}|TemporalOverhaul\\TemporalOverhaul.csproj|solutionrelative:temporaloverhaul\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
+=======
+  "Documents": [],
+>>>>>>> Stashed changes
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< Updated upstream
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -32,6 +37,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> Stashed changes
     }
   ]
 }
