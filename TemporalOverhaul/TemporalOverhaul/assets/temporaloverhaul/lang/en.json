@@ -1,13 +1,4 @@
 {
-  "type": "content", // mod type: either content, code or theme
-  "modid": "temporaloverhaul", // mod ID: may only contain lowercase letters and numbers. Must be unique
-  "name": "TemporalOverhaul", // name of the mod in freeform text
-  "authors": [ // list of authors
-  ],
-  "contributors": [ // list of people additionally contributing to the mod 
-  ],
-  "description":"Adds a rift ward that absorbs rift portals in various radiouses depending on tier" // "Adds envelopes to the game, sealable with wax"
-  "version": "1.22.7"// bump this every time you release a new version
-  "dependencies": // if your mod extends or depends on other mods, include them here
-  "game": ""
+  "hello": "hello world!"
+  
 }
